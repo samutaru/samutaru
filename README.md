@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 Informatico en proceso en la Universidad Pablo de Olavide<br>🌱 Actualmente aprendiendo<br>⚡ Entusiasta de la tecnologia
+# 💫 Sobre mi:
+🔭 Informatico en proceso en la Universidad Pablo de Olavide<br>
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samutaru) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samutaru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samutaru202@gmail.com) 
 
 # 💻 Tech Stack:
